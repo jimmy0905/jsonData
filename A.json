@@ -21,7 +21,7 @@
   ],
   "shelfs": [
     {
-      "name": "1 Shelf",
+      "name": "Shelf 0",
       "location": {
         "x": -15,
         "y": 0,
@@ -32,10 +32,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "1"
+      "message": "1",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "2 Shelf",
+      "name": "Shelf 1",
       "location": {
         "x": -15,
         "y": 0,
@@ -46,10 +49,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "2"
+      "message": "2",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "3 Shelf",
+      "name": "Shelf 2",
       "location": {
         "x": -15,
         "y": 0,
@@ -60,10 +66,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "3"
+      "message": "3",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "4 Shelf",
+      "name": "Shelf 3",
       "location": {
         "x": -15,
         "y": 0,
@@ -74,10 +83,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "4"
+      "message": "4",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "5 Shelf",
+      "name": "Shelf 4",
       "location": {
         "x": 15,
         "y": 0,
@@ -88,10 +100,13 @@
         "beta": 180,
         "gamma": 0
       },
-      "message": "5"
+      "message": "5",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "6 Shelf",
+      "name": "Shelf 5",
       "location": {
         "x": 15,
         "y": 0,
@@ -102,10 +117,13 @@
         "beta": 180,
         "gamma": 0
       },
-      "message": "6"
+      "message": "6",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "7 Shelf",
+      "name": "Shelf 6",
       "location": {
         "x": 15,
         "y": 0,
@@ -116,10 +134,13 @@
         "beta": 180,
         "gamma": 0
       },
-      "message": "7"
+      "message": "7",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "8 Shelf",
+      "name": "Shelf 7",
       "location": {
         "x": 15,
         "y": 0,
@@ -130,10 +151,13 @@
         "beta": 180,
         "gamma": 0
       },
-      "message": "8"
+      "message": "8",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "1 Shelf",
+      "name": "Shelf 8",
       "location": {
         "x": -15,
         "y": 0,
@@ -144,10 +168,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "1"
+      "message": "1",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "2 Shelf",
+      "name": "Shelf 9",
       "location": {
         "x": -15,
         "y": 0,
@@ -158,10 +185,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "2"
+      "message": "2",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "3 Shelf",
+      "name": "Shelf 10",
       "location": {
         "x": -15,
         "y": 0,
@@ -172,10 +202,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "3"
+      "message": "3",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "center Shelf 1",
+      "name": "Shelf 11",
       "location": {
         "x": 0.5,
         "y": 0,
@@ -186,10 +219,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "c1"
+      "message": "c1",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "center Shelf 2",
+      "name": "Shelf 12",
       "location": {
         "x": -0.5,
         "y": 0,
@@ -200,10 +236,13 @@
         "beta": 180,
         "gamma": 0
       },
-      "message": "c2"
+      "message": "c2",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "center Shelf 3",
+      "name": "Shelf 13",
       "location": {
         "x": 0.5,
         "y": 0,
@@ -214,10 +253,13 @@
         "beta": 0,
         "gamma": 0
       },
-      "message": "c3"
+      "message": "c3",
+      "img": [
+        "2.jpg"
+      ]
     },
     {
-      "name": "center Shelf 4",
+      "name": "Shelf 14",
       "location": {
         "x": -0.5,
         "y": 0,
@@ -228,7 +270,10 @@
         "beta": 180,
         "gamma": 0
       },
-      "message": "c4"
+      "message": "c4",
+      "img": [
+        "2.jpg"
+      ]
     }
   ],
   "path": [
