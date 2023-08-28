@@ -259,9 +259,93 @@
     },
     {
       "location": {
-        "x": 15,
+        "x": -15,
         "y": 4,
         "z": -12.75
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 90,
+        "gamma": 0
+      }
+    },
+    {
+      "location": {
+        "x": -15,
+        "y": 4,
+        "z": 12.75
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 90,
+        "gamma": 0
+      }
+    },
+    {
+      "location": {
+        "x": -15,
+        "y": 4,
+        "z": 8.25
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 90,
+        "gamma": 0
+      }
+    },
+    {
+      "location": {
+        "x": -15,
+        "y": 4,
+        "z": 3.75
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 90,
+        "gamma": 0
+      }
+    },
+    {
+      "location": {
+        "x": -15,
+        "y": 4,
+        "z": -0.75
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 90,
+        "gamma": 0
+      }
+    },
+    {
+      "location": {
+        "x": -15,
+        "y": 4,
+        "z": -5.25
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 90,
+        "gamma": 0
+      }
+    },
+    {
+      "location": {
+        "x": -15,
+        "y": 4,
+        "z": -9.75
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 90,
+        "gamma": 0
+      }
+    },
+    {
+      "location": {
+        "x": -15,
+        "y": 4,
+        "z": -14.25
       },
       "rotation": {
         "aplha": 0,
