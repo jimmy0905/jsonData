@@ -972,7 +972,7 @@
       },
       "rotation": {
         "aplha": 0,
-        "beta": 180,
+        "beta": 0,
         "gamma": 0
       },
       "message": "4",
