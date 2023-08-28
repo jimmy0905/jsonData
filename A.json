@@ -417,7 +417,7 @@
       "location": {
         "x": -15,
         "y": 0,
-        "z": 4
+        "z": 10.0
       },
       "rotation": {
         "aplha": 0,
@@ -457,7 +457,7 @@
       "location": {
         "x": -15,
         "y": 0,
-        "z": -4
+        "z": 6.5
       },
       "rotation": {
         "aplha": 0,
@@ -494,7 +494,207 @@
       "location": {
         "x": -15,
         "y": 0,
-        "z": -12
+        "z": 3
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 0,
+        "gamma": 0
+      },
+      "message": "4",
+      "img": [
+        "https://jimmy0905.github.io/jsonData/image/d1.jpg",
+        "https://jimmy0905.github.io/jsonData/image/d2.jpg"
+      ],
+      "products": [
+        {
+          "name": "少鹹有皮腰果",
+          "price": 39.9,
+          "manufacturer": "佳之選"
+        },
+        {
+          "name": "至尊七星伴明月冰皮月餅券",
+          "price": 188.0,
+          "manufacturer": "聖安娜"
+        },
+        {
+          "name": "芝士脆脆 (新舊包裝隨機發貨)",
+          "price": 19.9,
+          "manufacturer": "CHEETOS"
+        },
+        {
+          "name": "獨立片裝低脂芝士",
+          "price": 37.0,
+          "manufacturer": "卡夫"
+        }
+      ]
+    },
+    {
+      "name": "Shelf 3",
+      "location": {
+        "x": -15,
+        "y": 0,
+        "z": -0.5
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 0,
+        "gamma": 0
+      },
+      "message": "4",
+      "img": [
+        "https://jimmy0905.github.io/jsonData/image/d1.jpg",
+        "https://jimmy0905.github.io/jsonData/image/d2.jpg"
+      ],
+      "products": [
+        {
+          "name": "少鹹有皮腰果",
+          "price": 39.9,
+          "manufacturer": "佳之選"
+        },
+        {
+          "name": "至尊七星伴明月冰皮月餅券",
+          "price": 188.0,
+          "manufacturer": "聖安娜"
+        },
+        {
+          "name": "芝士脆脆 (新舊包裝隨機發貨)",
+          "price": 19.9,
+          "manufacturer": "CHEETOS"
+        },
+        {
+          "name": "獨立片裝低脂芝士",
+          "price": 37.0,
+          "manufacturer": "卡夫"
+        }
+      ]
+    },
+    {
+      "name": "Shelf 3",
+      "location": {
+        "x": -15,
+        "y": 0,
+        "z": -4
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 0,
+        "gamma": 0
+      },
+      "message": "4",
+      "img": [
+        "https://jimmy0905.github.io/jsonData/image/d1.jpg",
+        "https://jimmy0905.github.io/jsonData/image/d2.jpg"
+      ],
+      "products": [
+        {
+          "name": "少鹹有皮腰果",
+          "price": 39.9,
+          "manufacturer": "佳之選"
+        },
+        {
+          "name": "至尊七星伴明月冰皮月餅券",
+          "price": 188.0,
+          "manufacturer": "聖安娜"
+        },
+        {
+          "name": "芝士脆脆 (新舊包裝隨機發貨)",
+          "price": 19.9,
+          "manufacturer": "CHEETOS"
+        },
+        {
+          "name": "獨立片裝低脂芝士",
+          "price": 37.0,
+          "manufacturer": "卡夫"
+        }
+      ]
+    },
+    {
+      "name": "Shelf 3",
+      "location": {
+        "x": -15,
+        "y": 0,
+        "z": -7.5
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 0,
+        "gamma": 0
+      },
+      "message": "4",
+      "img": [
+        "https://jimmy0905.github.io/jsonData/image/d1.jpg",
+        "https://jimmy0905.github.io/jsonData/image/d2.jpg"
+      ],
+      "products": [
+        {
+          "name": "少鹹有皮腰果",
+          "price": 39.9,
+          "manufacturer": "佳之選"
+        },
+        {
+          "name": "至尊七星伴明月冰皮月餅券",
+          "price": 188.0,
+          "manufacturer": "聖安娜"
+        },
+        {
+          "name": "芝士脆脆 (新舊包裝隨機發貨)",
+          "price": 19.9,
+          "manufacturer": "CHEETOS"
+        },
+        {
+          "name": "獨立片裝低脂芝士",
+          "price": 37.0,
+          "manufacturer": "卡夫"
+        }
+      ]
+    },
+    {
+      "name": "Shelf 3",
+      "location": {
+        "x": -15,
+        "y": 0,
+        "z": -11
+      },
+      "rotation": {
+        "aplha": 0,
+        "beta": 0,
+        "gamma": 0
+      },
+      "message": "4",
+      "img": [
+        "https://jimmy0905.github.io/jsonData/image/d1.jpg",
+        "https://jimmy0905.github.io/jsonData/image/d2.jpg"
+      ],
+      "products": [
+        {
+          "name": "少鹹有皮腰果",
+          "price": 39.9,
+          "manufacturer": "佳之選"
+        },
+        {
+          "name": "至尊七星伴明月冰皮月餅券",
+          "price": 188.0,
+          "manufacturer": "聖安娜"
+        },
+        {
+          "name": "芝士脆脆 (新舊包裝隨機發貨)",
+          "price": 19.9,
+          "manufacturer": "CHEETOS"
+        },
+        {
+          "name": "獨立片裝低脂芝士",
+          "price": 37.0,
+          "manufacturer": "卡夫"
+        }
+      ]
+    },
+    {
+      "name": "Shelf 3",
+      "location": {
+        "x": -15,
+        "y": 0,
+        "z": -14.5
       },
       "rotation": {
         "aplha": 0,
